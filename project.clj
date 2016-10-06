@@ -1,4 +1,4 @@
-(defproject ring-servlet-context "0.1.0-SNAPSHOT"
+(defproject ring-servlet-context "0.1.0"
   :description "Ring middleware for handling servlet context path"
   :url "https://github.com/federkaten/ring-servlet-context"
   :license {:name "The MIT License"
